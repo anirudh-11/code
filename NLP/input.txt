@@ -1,0 +1,8 @@
+  File: ts1.txt
+  Size: 23        	Blocks: 8          IO Block: 4096   regular file
+Device: 801h/2049d	Inode: 1442902     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ anirudh)   Gid: ( 1000/ anirudh)
+Access: 2019-08-05 14:19:16.022370156 +0530
+Modify: 2019-08-05 14:19:24.030372156 +0530
+Change: 2019-08-05 14:19:24.030372156 +0530
+ Birth: -
